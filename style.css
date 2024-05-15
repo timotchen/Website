@@ -1,0 +1,13 @@
+body {
+	background-color: white;
+	font-family: Georgia, serif;
+	border: 1px solid #48b795;
+}
+h1 {
+	width: 100%;
+	font-style: bold;
+	color: blue;
+	background-color: lightblue;
+	font-size: 30px;
+	font-weight: bolder;
+}
