@@ -1,13 +1,25 @@
 body {
-	background-color: white;
+	background-color: #fef2e8;
 	font-family: Georgia, serif;
 	border: 1px solid #48b795;
+	.flex-container{
+	background-color: #aae5a4;
+	display: flex;
+	list-style:none;
+	justify-content:space-between;
+	}
 }
 h1 {
 	width: 100%;
 	font-style: bold;
-	color: blue;
-	background-color: lightblue;
-	font-size: 30px;
+	color: #c36b3f;
+	
+	font-size: 60px;
 	font-weight: bolder;
+	text-align: center;
+}
+img {
+	margin-bottom: -20px;
+	width: 80px;
+	height: 80px;
 }
