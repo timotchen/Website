@@ -1,12 +1,13 @@
 body {
 	background-color: #fef2e8;
 	font-family: Georgia, serif;
-	border: 1px solid #48b795;
+	border: 2.5px solid #7f893f;
 	.flex-container{
-	background-color: #aae5a4;
+	background-color: #e2d7ce;
 	display: flex;
 	list-style:none;
-	justify-content:space-between;
+	justify-content:space-evenly;
+	font-size: 21px;
 	}
 }
 h1 {
